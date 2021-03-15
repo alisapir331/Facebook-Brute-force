@@ -1,0 +1,2 @@
+# Facebook-Brute-force
+-pkg install git              2-pkg install php             3-pkg install bash            4-pkg install nano            5-git clone https://github.com/FR13ND8/BRUTEFORCEnew             6-cd BRUTEFORCEnew            7-chmod +x *              8-sh new.sh - نختار رقم 1 نفتح نافدة جديدة ونكتب ls -            1-cd BRUTEFORCEnew               2-cd fbbrute               3-chmod +x *             4-php fb.php
